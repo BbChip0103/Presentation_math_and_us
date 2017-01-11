@@ -1,0 +1,29 @@
+{
+  "_defaultMainFileName": "PresentationTest",
+  "_nameColors": [
+    {
+      "_name": "엡실론",
+      "_color": {
+        "r": 255,
+        "g": 167,
+        "b": 152,
+        "a": 255
+      }
+    },
+    {
+      "_name": "하루",
+      "_color": {
+        "r": 137,
+        "g": 210,
+        "b": 255,
+        "a": 255
+      }
+    }
+  ],
+  "_defaultNameColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

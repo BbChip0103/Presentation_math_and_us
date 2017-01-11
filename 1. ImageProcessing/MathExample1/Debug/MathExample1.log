@@ -1,0 +1,5 @@
+﻿  MathExample.c
+c:\users\bbchip\desktop\mathexample1\mathexample1\mathexample.c(74): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  MathExample1.vcxproj -> C:\Users\BbChip\Desktop\MathExample1\Debug\MathExample1.exe
+  MathExample1.vcxproj -> C:\Users\BbChip\Desktop\MathExample1\Debug\MathExample1.pdb (Full PDB)
